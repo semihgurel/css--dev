@@ -1,0 +1,115 @@
+/* index html */
+
+body {
+  background-image: url("https://scramblerducati.com/wp-content/uploads/2021/10/Scrambler-Ducati-1100-Tribute-Pro-Closing-Desktop.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: #000000d6;
+}
+
+.index-header {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Courier New", Courier, monospace;
+  color: crimson;
+  text-shadow: 0.5px 0.5px #ffffff;
+}
+
+.index-nav {
+  justify-content: center;
+  display: flex;
+}
+
+.index-nav ul {
+  text-decoration: none;
+  list-style-type: none;
+  justify-content: center;
+  display: contents;
+}
+
+.index-nav ul li {
+  padding: 10px;
+  font-family: sans-serif;
+  background-color: bisque;
+  border-radius: 3px;
+}
+
+.nav-middle-li {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.index-nav ul li a {
+  text-decoration: none;
+  font-family: ui-monospace;
+  font-size: larger;
+}
+.index-nav ul li a:hover,
+.index-nav ul li a:active {
+  font-size: 150%;
+}
+
+main {
+  text-align: center;
+}
+
+main p {
+  color: white;
+  font-family: monospace;
+  font-size: larger;
+  text-shadow: 1px 1px #b52323;
+}
+
+.index-section1 h3 {
+  text-align: center;
+}
+
+.anasayfa-urunler {
+  justify-content: center;
+  display: flex;
+}
+
+.anasayfa-urunler ul {
+  color: white;
+  font-family: monospace;
+  font-size: larger;
+  text-shadow: 1px 1px #b52323;
+}
+/* index html end */
+
+/* products html */
+
+.products-div {
+  text-align: center;
+}
+.products-content {
+  color: white;
+  font-family: monospace;
+  font-size: larger;
+  text-shadow: 1px 1px #b52323;
+}
+.div-img {
+  text-align: center;
+}
+
+/* products html end */
+
+/* contact html */
+
+.contact-div {
+  text-align: center;
+}
+
+.contact-content p {
+  color: white;
+  font-family: monospace;
+  font-size: larger;
+  text-shadow: 1px 1px #b52323;
+}
