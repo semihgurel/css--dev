@@ -2,4 +2,4 @@
 
 [patika.dev](https://patika.dev)
 
-![Proje](./img/giphy.mp4)
+![Proje](https://media.giphy.com/media/yaVaPmN1Ncx9kovdIT/giphy.gif)
